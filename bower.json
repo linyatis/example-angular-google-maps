@@ -1,0 +1,11 @@
+{
+  "name": "angular-gmaps",
+  "version": "0.0.1",
+  "authors": [
+    "José Filipe Lyra <linyatis@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.3"
+  }
+}
